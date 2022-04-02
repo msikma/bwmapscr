@@ -4,7 +4,9 @@ A collection of map screenshots.
 
 This is only for testing purposes.
 
-Filenames are determined by an algorithm that can be found in [screptools](https://github.com/msikma/screptools).
+<p align="left"><img src="https://github.com/msikma/bwmapscr/raw/develop/map-preview/GOOD%20NIGHT%201.31.avif" width="500" height="500" alt="Good Night map preview"></p>
+
+Filenames are determined by an algorithm that can be found in [sctoolsdata](https://github.com/msikma/sctoolsdata).
 
 ## Copyright
 
